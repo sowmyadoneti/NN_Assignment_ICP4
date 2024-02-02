@@ -1,4 +1,11 @@
 # NN_Assignment_ICP4
+
+Student Name: Sowmya Doneti
+
+Student ID: 700754085
+
+CRN : 22280
+
 Neural Network Assignment ICP_4 Programs
 
 1. Data Manipulation:
